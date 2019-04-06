@@ -1,4 +1,4 @@
-# 스프링 부트, mybatis rest api
+# 스프링 부트, mybatis, rest api
 스프링 부트 rest api 활용하여 crud
 
 
