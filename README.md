@@ -1,4 +1,4 @@
-# 스프링 부트, mybatis
+# demo
 스프링 부트 mybatis 활용하여 crud
 
 
